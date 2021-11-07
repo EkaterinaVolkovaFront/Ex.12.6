@@ -14,13 +14,13 @@
 },
 "repository": {
   "type": "git",
-  "url": "git+https://github.com/volkovakaterin/Ex.12.3.3.git"
+  "url": "git+https://github.com/EkaterinaVolkovaFront/Ex.12.6.git"
 },
 "keywords": [],
 "bugs": {
-  "url": "https://github.com/volkovakaterin/Ex.12.3.3/issues"
+  "url": "https://github.com/EkaterinaVolkovaFront/Ex.12.6/issues"
 },
-"homepage": "https://github.com/volkovakaterin/Ex.12.3.3#readme",
+"homepage": "https://github.com/EkaterinaVolkovaFront/Ex.12.6#readme",
 "devDependencies": {
   "@babel/cli": "^7.10.1",
   "@babel/core": "^7.10.2",
